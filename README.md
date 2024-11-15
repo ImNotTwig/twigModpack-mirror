@@ -1,3 +1,0 @@
-# twigModpack
-
-my personal Minecraft packwiz modpack
