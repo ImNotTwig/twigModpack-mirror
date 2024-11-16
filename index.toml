@@ -154,8 +154,8 @@ hash = "ef69820ad12ecf123b0d7ca51f3567067133060f1c526d645ca77a410e9a7c1a"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
+file = "mods/cull-less-leaves.pw.toml"
+hash = "cf8fc65e09bf5baef6b6681de9c505d4ab8661f61f53603544a07ef5df12c20d"
 metafile = true
 
 [[files]]
@@ -521,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3f9c20d644445a631e0b23b54bff5c5e4f531626919c9d55b5fc5d4fd43b9c64"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c9c7de97a085db8491f23e01c18300613295bf6da75f7868db3336ea8b93108f"
 metafile = true
 
 [[files]]
