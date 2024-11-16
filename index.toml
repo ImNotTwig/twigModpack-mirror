@@ -54,11 +54,6 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
-file = "mods/ardagrass.pw.toml"
-hash = "4a0ff193240d7d2a3c70811ff010c97728c6cf9bc34dc3b91b3594e06f771f75"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
 metafile = true
