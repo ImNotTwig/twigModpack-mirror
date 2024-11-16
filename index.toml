@@ -111,11 +111,6 @@ hash = "9bde6679bf4d0af060cd9342753127b0bae9551f18af713503beafb76a20e0f1"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
