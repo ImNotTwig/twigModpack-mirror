@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "4fc110714de1cf062c516b8a7993ffa17c8f57698beeb18c994da61f98c385d8"
+
+[[files]]
+file = "README.org"
+hash = "3d262dee5a31d940c721e52193571092955d48230f07001c9943784505e29153"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b6e66f4a33e23324b165d3794bf3ec1efeac3f5333f8f2cee79df76dcf43455f"
 metafile = true
@@ -142,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "86d5d686ebe5078b2058260f3fcf7c987a07ff00144514af0789c8e4c71c6d7d"
+hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
 metafile = true
 
 [[files]]
@@ -157,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "679dc8c14612e1fcad5c5d44e651c59885ab6abe6fac73fed51edd428deeb759"
+hash = "9a19ad339f15917996d1651abb17370316bbbcdd220b33ab76ce360579ccbe81"
 metafile = true
 
 [[files]]
@@ -407,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "75a6b51c6217c01bf4e9dc4ea1c7554a6da206834b621f5b49f6aa250156321e"
+hash = "fe2e2f2d2d3beecf56a8d71431108a3aa83f575d4838682f2c4a1b25d443812d"
 metafile = true
 
 [[files]]
