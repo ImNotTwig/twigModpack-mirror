@@ -9,18 +9,6 @@ file = "README.org"
 hash = "3d262dee5a31d940c721e52193571092955d48230f07001c9943784505e29153"
 
 [[files]]
-file = "checksum.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "flake.lock"
-hash = "9a46f5e63c87253c0ff0d909cd4afa79221b96dec0798a1b55fd9baaee8be474"
-
-[[files]]
-file = "flake.nix"
-hash = "756c4402719f69a8b444b5a63525b41f827016a52c0f5a8abb323b140db70691"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b6e66f4a33e23324b165d3794bf3ec1efeac3f5333f8f2cee79df76dcf43455f"
 metafile = true
