@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "18da7ad83a4dc590497383f895a77f11b800ec7bf7cf5ba84e2f7e22fc2cd610"
+hash = "402ab25fdc5968cbe52fd7cf277c7bc55229c1d56ae72e7484da913ec41c6974"
 metafile = true
 
 [[files]]
