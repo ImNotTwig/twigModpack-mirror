@@ -121,6 +121,11 @@ hash = "9a253e0d2277ad6033542839a707dd4bcec441dca2f758680592ce1e353e93fa"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/eclipses-tweakeroo-additions.pw.toml"
+hash = "d4429c33c6a41ef203a680c0884f363ec2582d761d3fba5d007117547e660bda"
 metafile = true
 
 [[files]]
@@ -363,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
@@ -546,6 +561,11 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "60490fee2c83f100f53a2239e8def1ac7d988c5e970ba6f1541077d728a1189d"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
 metafile = true
@@ -573,4 +593,79 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/betterleaves.pw.toml"
+hash = "ccc4fd310ec1d231220a04670ca0ef12a39397cfd28eb87660e1cf6e273f6ea9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettersky.pw.toml"
+hash = "2f88bd49fbd1a900ae7623856ba12aff85c0973813163b1b43064fde51d47034"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithless.pw.toml"
+hash = "d6d66ff9ac41dac961e241ed55405ca9ebffe9a2ee800c732505bad90d4039d1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "f71396b186ce5ecec39923831d890c2e70edc4dc2c65a6c07d70a77db9e77aa1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "6293eed4305ccd31983ac03d7cfc1153129ab65cad138e319e9e94765282f156"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mrblueyetis-better-cats.pw.toml"
+hash = "b2def61ef7639640d02d0195b2f7b4e7b13a4a8a727d18f3f259d5254887050d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "01eefa7c3de69fb932dd30bbc3854d30b6c202e8c6e14c06e336e50bba39b8c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "73ef348602ef873cce3c304a92f643ecb402d8def6a026b70b9f94b3181bab08"
+metafile = true
+
+[[files]]
+file = "resourcepacks/serified-font.pw.toml"
+hash = "39354f2417046c25f4d43982578bc2baa20dfc5d1d6179b412f5cadfccf014da"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark-gui-modded-compat.pw.toml"
+hash = "ec036fc3aa68cd10c1535e658deb1526d5ea42bd3b6805092930fd702b235601"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "a833ca7bbb5d160a0c056471ad617ab8ddb22e7ce60801a4eb96cd0124bc1a9e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/whimscape.pw.toml"
+hash = "453ef4f852dbea43e6db3597c84fa981297d68f40eabcdf3f78a708ad1ea037c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "7ea46e054b0915e6534ffd28e718cba6edcece22c9829213d58eb3c12d0d36f7"
 metafile = true
