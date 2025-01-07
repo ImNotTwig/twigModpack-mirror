@@ -1,0 +1,13 @@
+name = "Panda's Falling Tree's"
+filename = "fallingtrees-fabric-0.12.7-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/C8FlCpoH/fallingtrees-fabric-0.12.7-1.20.jar"
+hash-format = "sha1"
+hash = "c1f9fbe01259df570c0e760380efe3c655186dc3"
+
+[update]
+[update.modrinth]
+mod-id = "i2kUe4lq"
+version = "C8FlCpoH"

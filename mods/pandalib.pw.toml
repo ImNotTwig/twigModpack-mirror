@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-fabric-0.4.2-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/Ire8dDH2/pandalib-fabric-0.4.2-1.20.jar"
+hash-format = "sha1"
+hash = "919c1fc78c3fb26dbc476d37c3aa050678d73c09"
+
+[update]
+[update.modrinth]
+mod-id = "mEEGbEIu"
+version = "Ire8dDH2"
