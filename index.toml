@@ -484,11 +484,6 @@ hash = "b6af10995474833da75ce3d3522c123f77ffe2a056a175c852ea62d5bffb054e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-continued.pw.toml"
-hash = "537931e9e7e54fb0801417349b9f0f99824811f1a4c54ed94764f6853a5393b1"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
@@ -751,16 +746,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "51b7d32acbae43d8e57447da3e7c1f119d25395ceb1cf23f0139ef016f4607a1"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "ff63c0fcdae06b9fa5800d55f1acd779ead23705b4df33f9faa2b4d62e570997"
 metafile = true
 
 [[files]]
