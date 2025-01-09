@@ -9,6 +9,10 @@ file = "README.org"
 hash = "3d262dee5a31d940c721e52193571092955d48230f07001c9943784505e29153"
 
 [[files]]
+file = "fabric_loader_dependencies.json"
+hash = "efa80f03ae3243a85071a494f23bb119a182ce46b9e2e72ddb862b71945e6736"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bce98655a8677094d7f0081b6304e8eef248a71e960a513fee9c0128838c99b3"
 metafile = true
