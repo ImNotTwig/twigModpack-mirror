@@ -449,6 +449,11 @@ hash = "2c822b9fdf6ce45c152b4dd74e24cb4fc25693839c7157898de9b0edbda7debf"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
@@ -466,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "fdeb0f089d6acc972c3c6a097ae68e980481a1ea2be3bf79be06e24ea3bb7c13"
 metafile = true
 
 [[files]]
