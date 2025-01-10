@@ -99,6 +99,11 @@ hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "fa4caa371b3e50bb3b4dd07912a5eece09ad0af673549815efd7481e6066d7b8"
+hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
 metafile = true
 
 [[files]]
@@ -444,8 +449,18 @@ hash = "2321bdba8aed2b99d75de3fc2116bc28c1a1d671292bde0e4af4a3be2dee0dfe"
 metafile = true
 
 [[files]]
+file = "mods/glass-armor.pw.toml"
+hash = "bce38022ee79edf30784b14039e76eabf3b4b6507f149c97972b2a6841676944"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
+file = "mods/hephaestus-expansion.pw.toml"
+hash = "23d1808185b96ba7e674ae80763db201b3fc1a4f05e54b0175105fe57bfaa8f7"
 metafile = true
 
 [[files]]
@@ -656,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "de40d3845dd5c1fc91b618bb5e99662b5a5b9805b3b0e4ee345221dac62e8ece"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
