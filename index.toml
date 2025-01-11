@@ -569,6 +569,16 @@ hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
 metafile = true
 
 [[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "a7d1e5f1c4b5dd93fde350e43cd7aa48a732c23609652327f3aa887b807426f2"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-enchantments.pw.toml"
+hash = "25be1c3c1727615c03b75a45d10708e7b0e3832ddcbad7e3cffff2ba5d4f49d7"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
