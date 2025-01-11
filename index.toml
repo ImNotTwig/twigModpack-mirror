@@ -149,6 +149,11 @@ hash = "9a253e0d2277ad6033542839a707dd4bcec441dca2f758680592ce1e353e93fa"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
@@ -484,6 +489,11 @@ hash = "2c822b9fdf6ce45c152b4dd74e24cb4fc25693839c7157898de9b0edbda7debf"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
@@ -501,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d8c819fde97f9129ff0e9a6402e18598eb7d844c0193007a08aa88f3c0e3e507"
 metafile = true
 
 [[files]]
