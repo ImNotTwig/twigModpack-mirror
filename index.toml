@@ -14,6 +14,16 @@ hash = "bce98655a8677094d7f0081b6304e8eef248a71e960a513fee9c0128838c99b3"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "886832ee8ee9622623a9d36351f3f955a923d3e67a0b097532d1c8b8fc7848b1"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5ba32b2db4b5fb434ffdbccbea5d1d5bb02c2c2b23e929a109e6a2a7ed949cff"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
@@ -231,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "d8e19293474d4b9e3a7687862a23e45551df12b540812648e5fc2cc98c47e711"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "00cf573cba0077f7fe787eecf22a879894f80e0795fa1cabbfaa87bfaa5c584e"
 metafile = true
 
 [[files]]
@@ -806,11 +821,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
