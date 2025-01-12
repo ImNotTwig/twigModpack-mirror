@@ -914,6 +914,11 @@ hash = "2f88bd49fbd1a900ae7623856ba12aff85c0973813163b1b43064fde51d47034"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode-expansion.pw.toml"
+hash = "685c92dc2fcb201bb5cff1d71bb0957eae9af4b8e6c430234854452ebc5540be"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
 metafile = true
