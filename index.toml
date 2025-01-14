@@ -224,6 +224,11 @@ hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "a87ba959c72ab3bad13aba7334c0a299adcaa90de921ab0a5b33579553c72357"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -494,6 +499,11 @@ hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
 
 [[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "65019cc13c0e36640360dee464e748966b210173f72f4c30f7ddcd2fc25003f5"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
@@ -684,6 +694,11 @@ hash = "402ab25fdc5968cbe52fd7cf277c7bc55229c1d56ae72e7484da913ec41c6974"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "0f7790fa8627dc2fbf68eb6e0fa78180eb9cf0297ca331d90e7c4234c3390245"
 metafile = true
@@ -851,6 +866,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "5fcc78fb279f6d592bf0ed444a4fa425ae2f47fab415bc66ac1d0aead1e8e8c0"
 metafile = true
 
 [[files]]
