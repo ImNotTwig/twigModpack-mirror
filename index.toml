@@ -249,6 +249,11 @@ hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "fde0ef47a710b60530f684eda6e547b13e29e85406259fa6659c5985154cbd76"
+metafile = true
+
+[[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "d8e19293474d4b9e3a7687862a23e45551df12b540812648e5fc2cc98c47e711"
 metafile = true
