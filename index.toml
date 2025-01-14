@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/ring-of-flight.pw.toml"
-hash = "2c83f9e3ab6c58b9468826e6f0930bb54e7f4073278b86a0a4e607846ded51ff"
+hash = "ce01cc646afe3da9e5f3cf5b8e1917d0838fe197bc4a49105732f4e04f2dd2d4"
 metafile = true
 
 [[files]]
