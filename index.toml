@@ -89,6 +89,16 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/azuredooms-angel-ring.pw.toml"
+hash = "07562895eec6d45b4c298db7549bb07613937e9622185204fee832eba92b6003"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "c299f7b5b175dfbc71f748fbc6840e965d848d674d99fc9d633db4396f2cbf55"
 metafile = true
@@ -781,11 +791,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
-metafile = true
-
-[[files]]
-file = "mods/ring-of-flight.pw.toml"
-hash = "ce01cc646afe3da9e5f3cf5b8e1917d0838fe197bc4a49105732f4e04f2dd2d4"
 metafile = true
 
 [[files]]
