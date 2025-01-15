@@ -939,13 +939,13 @@ hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/betterleaves.pw.toml"
-hash = "ccc4fd310ec1d231220a04670ca0ef12a39397cfd28eb87660e1cf6e273f6ea9"
+file = "resourcepacks/bettersky.pw.toml"
+hash = "2f88bd49fbd1a900ae7623856ba12aff85c0973813163b1b43064fde51d47034"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bettersky.pw.toml"
-hash = "2f88bd49fbd1a900ae7623856ba12aff85c0973813163b1b43064fde51d47034"
+file = "resourcepacks/bushy-leaves.pw.toml"
+hash = "4416644ade67e87b6e03a881b96445677e64d9b298f3c8dc68517c0cc4866f1f"
 metafile = true
 
 [[files]]
@@ -976,6 +976,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "9e211b5199490a166526613d26e01fb42bc8ab488e82f9c496b5647665a6c748"
 metafile = true
 
 [[files]]
