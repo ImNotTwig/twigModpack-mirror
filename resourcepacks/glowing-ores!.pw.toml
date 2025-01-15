@@ -1,0 +1,13 @@
+name = "Glowing Ores!"
+filename = "Glowing Ores! 3.0v.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/26bFJKVz/versions/PkSOeVhX/Glowing%20Ores%21%203.0v.zip"
+hash-format = "sha512"
+hash = "f52b679bd5ef84a962bc836df3ae0a3e9114517b7f005a8be37a31131109c2278c7bafe73b9fc028fc12211bc5240f8427249fc946a90a0fddd41d7bdecef944"
+
+[update]
+[update.modrinth]
+mod-id = "26bFJKVz"
+version = "PkSOeVhX"

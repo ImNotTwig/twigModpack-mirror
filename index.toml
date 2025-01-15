@@ -954,6 +954,11 @@ hash = "685c92dc2fcb201bb5cff1d71bb0957eae9af4b8e6c430234854452ebc5540be"
 metafile = true
 
 [[files]]
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "5211c59a355673aa4a07698533778901324b5d352177ea324d48c849c6aa1593"
 metafile = true
@@ -974,6 +979,11 @@ hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/glowing-ores!.pw.toml"
+hash = "e6c2b9be339ebb453c8385c0b7cbd5b32570efa235c5b43c0a7ec2f5a4513c5d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "6293eed4305ccd31983ac03d7cfc1153129ab65cad138e319e9e94765282f156"
 metafile = true
@@ -981,11 +991,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mrblueyetis-better-cats.pw.toml"
 hash = "b2def61ef7639640d02d0195b2f7b4e7b13a4a8a727d18f3f259d5254887050d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/new-glowing-ores.pw.toml"
-hash = "01eefa7c3de69fb932dd30bbc3854d30b6c202e8c6e14c06e336e50bba39b8c8"
 metafile = true
 
 [[files]]
