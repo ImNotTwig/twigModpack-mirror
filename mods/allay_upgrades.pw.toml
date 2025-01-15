@@ -1,0 +1,13 @@
+name = "Allay Upgrades"
+filename = "allay_upgrades-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I4llzeMO/versions/h1nGjEeD/allay_upgrades-2.0.jar"
+hash-format = "sha512"
+hash = "321ea183e97ba9609f640ce1cf6476e61f83ba269f81b3b1014a5410374b0c39afe092edd611a6eb9b3d1d70aadeffc811dded19b3425fa35b4df9a306b6940a"
+
+[update]
+[update.modrinth]
+mod-id = "I4llzeMO"
+version = "h1nGjEeD"

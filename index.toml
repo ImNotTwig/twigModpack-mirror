@@ -34,6 +34,11 @@ hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
+file = "mods/allay_upgrades.pw.toml"
+hash = "917eb08d9e29dbbc65d0bd7c7e22611aaeeeff9947797a43db1446e49a7c28ee"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "84da114b518ecda7ed4fe0160a7986c2446e55820675016e3630ad87177dc55f"
 metafile = true
