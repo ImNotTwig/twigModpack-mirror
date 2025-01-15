@@ -1,0 +1,13 @@
+name = "Fire Rekindled"
+filename = "Fire_Rekindled.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lBQSreft/versions/PVZbDSV6/Fire_Rekindled.zip"
+hash-format = "sha512"
+hash = "6948bff043583dfaf5a1d8fbe627d3077387b6af0926a316dd592b456937ba75088abf3578f0286b68e0b4b645c9fc71de06f8ec860e528f8b2149145abbd7d3"
+
+[update]
+[update.modrinth]
+mod-id = "lBQSreft"
+version = "PVZbDSV6"

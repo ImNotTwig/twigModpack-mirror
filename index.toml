@@ -974,6 +974,11 @@ hash = "f71396b186ce5ecec39923831d890c2e70edc4dc2c65a6c07d70a77db9e77aa1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fire-rekindled.pw.toml"
+hash = "6e7bd3a8a9c6ba3e11973be92f890652795149d6d61d68ab6e8dfff6e1b3e9a6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
