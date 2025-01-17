@@ -1,12 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "LICENSE"
 hash = "4fc110714de1cf062c516b8a7993ffa17c8f57698beeb18c994da61f98c385d8"
 
 [[files]]
 file = "README.org"
 hash = "3d262dee5a31d940c721e52193571092955d48230f07001c9943784505e29153"
+
+[[files]]
+file = "flake.lock"
+hash = "ecf72f3a592dcfbddf29edda0d37338aeba2e8ae64e3209296d19a8255d47ec8"
+
+[[files]]
+file = "flake.nix"
+hash = "b922feb04cd4f28f6d367c2786912da9dd8aba7a653fe84fd9122096cc00e88d"
+
+[[files]]
+file = "kubejs/server_scripts/create-netherexp-compat.js"
+hash = "063f69a42930331ef3b7be2a2a71ee508b32e6f417722589a600af35e106fb45"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
