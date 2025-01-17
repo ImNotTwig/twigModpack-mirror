@@ -1,1 +1,8 @@
 .direnv
+flake.nix
+.envrc
+flake.lock
+LICENSE
+README.org
+.git
+.gitignore
